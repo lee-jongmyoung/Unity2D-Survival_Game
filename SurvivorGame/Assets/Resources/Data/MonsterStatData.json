@@ -1,0 +1,183 @@
+{
+  "stats": [
+    {
+      "name": "Monster01",
+      "hp": "20",
+      "speed": "1",
+      "attack": "1"
+    },
+    {
+      "name": "Monster02",
+      "hp": "20",
+      "speed": "1",
+      "attack": "1"
+    },
+    {
+      "name": "Monster03",
+      "hp": "20",
+      "speed": "1",
+      "attack": "1"
+    },
+    {
+      "name": "Monster04",
+      "hp": "20",
+      "speed": "1",
+      "attack": "1"
+    },
+    {
+      "name": "Monster05",
+      "hp": "20",
+      "speed": "1",
+      "attack": "1"
+    },
+    {
+      "name": "Monster11",
+      "hp": "40",
+      "speed": "1",
+      "attack": "2"
+    },
+    {
+      "name": "Monster12",
+      "hp": "40",
+      "speed": "1",
+      "attack": "2"
+    },
+    {
+      "name": "Monster13",
+      "hp": "40",
+      "speed": "1",
+      "attack": "2"
+    },
+    {
+      "name": "Monster14",
+      "hp": "40",
+      "speed": "1",
+      "attack": "2"
+    },
+    {
+      "name": "Monster15",
+      "hp": "40",
+      "speed": "1",
+      "attack": "2"
+    },
+    {
+      "name": "Monster21",
+      "hp": "80",
+      "speed": "1",
+      "attack": "2"
+    },
+    {
+      "name": "Monster22",
+      "hp": "80",
+      "speed": "1",
+      "attack": "2"
+    },
+    {
+      "name": "Monster23",
+      "hp": "80",
+      "speed": "1",
+      "attack": "2"
+    },
+    {
+      "name": "Monster24",
+      "hp": "80",
+      "speed": "1",
+      "attack": "2"
+    },
+    {
+      "name": "Monster25",
+      "hp": "80",
+      "speed": "1",
+      "attack": "2"
+    },
+    {
+      "name": "Monster31",
+      "hp": "150",
+      "speed": "1.5",
+      "attack": "2"
+    },
+    {
+      "name": "Monster32",
+      "hp": "150",
+      "speed": "1.5",
+      "attack": "2"
+    },
+    {
+      "name": "Monster33",
+      "hp": "150",
+      "speed": "1.5",
+      "attack": "2"
+    },
+    {
+      "name": "Monster34",
+      "hp": "150",
+      "speed": "1.5",
+      "attack": "2"
+    },
+    {
+      "name": "Monster35",
+      "hp": "150",
+      "speed": "1.5",
+      "attack": "2"
+    },
+    {
+      "name": "Monster41",
+      "hp": "250",
+      "speed": "2",
+      "attack": "2"
+    },
+    {
+      "name": "Monster42",
+      "hp": "250",
+      "speed": "2",
+      "attack": "2"
+    },
+    {
+      "name": "Monster43",
+      "hp": "250",
+      "speed": "2",
+      "attack": "2"
+    },
+    {
+      "name": "Monster44",
+      "hp": "250",
+      "speed": "2",
+      "attack": "2"
+    },
+    {
+      "name": "Monster45",
+      "hp": "250",
+      "speed": "2",
+      "attack": "2"
+    },
+    {
+      "name": "Boss01",
+      "hp": "500",
+      "speed": "1",
+      "attack": "10",
+      "pattern": "0"
+    },
+    {
+      "name": "Boss02",
+      "hp": "2000",
+      "speed": "1",
+      "attack": "10",
+      "pattern": "1"
+    },
+    {
+      "name": "Boss03",
+      "hp": "8000",
+      "speed": "1",
+      "attack": "10",
+      "pattern": "1,2"
+    },
+    {
+      "name": "Boss04",
+      "hp": "15000",
+      "speed": "1",
+      "attack": "10",
+      "pattern": "3,4"
+    }
+  ]
+}
+

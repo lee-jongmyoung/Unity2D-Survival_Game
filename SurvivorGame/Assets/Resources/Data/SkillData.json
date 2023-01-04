@@ -1,0 +1,815 @@
+﻿{
+  "stats": [
+    {
+      "skillno": "1",
+      "damage": "10",
+      "timetoattack": "2",
+      "speed": "10",
+      "knockback": "0.3",
+      "projectilecount": "2",
+      "size": "3",
+      "ex": "화염구를 전방으로 발사"
+    },
+    {
+      "skillno": "2",
+      "damage": "20",
+      "timetoattack": "2",
+      "speed": "10",
+      "knockback": "0.3",
+      "projectilecount": "3",
+      "size": "3",
+      "ex": "화염구 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "3",
+      "damage": "30",
+      "timetoattack": "2",
+      "speed": "10",
+      "knockback": "0.3",
+      "projectilecount": "4",
+      "size": "3",
+      "ex": "화염구 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "4",
+      "damage": "40",
+      "timetoattack": "2",
+      "speed": "10",
+      "knockback": "0.3",
+      "projectilecount": "5",
+      "size": "3",
+      "ex": "화염구 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "5",
+      "damage": "55",
+      "timetoattack": "2",
+      "speed": "10",
+      "knockback": "0.3",
+      "projectilecount": "6",
+      "size": "3",
+      "ex": "화염구 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "6",
+      "damage": "80",
+      "timetoattack": "2",
+      "speed": "10",
+      "knockback": "0.3",
+      "projectilecount": "7",
+      "size": "3",
+      "ex": "화염구 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "7",
+      "damage": "110",
+      "timetoattack": "2",
+      "speed": "10",
+      "knockback": "0.3",
+      "projectilecount": "8",
+      "size": "3",
+      "ex": "화염구 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "8",
+      "damage": "140",
+      "timetoattack": "2",
+      "speed": "10",
+      "knockback": "0.3",
+      "projectilecount": "9",
+      "size": "3",
+      "ex": "화염구 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "9",
+      "damage": "180",
+      "timetoattack": "2",
+      "speed": "10",
+      "knockback": "0.3",
+      "projectilecount": "10",
+      "size": "3",
+      "ex": "화염구 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "10",
+      "damage": "150",
+      "timetoattack": "2",
+      "speed": "10",
+      "knockback": "0.3",
+      "projectilecount": "2",
+      "size": "3",
+      "ex": "화염구 각성"
+    },
+    {
+      "skillno": "11",
+      "damage": "10",
+      "timetoattack": "0.3",
+      "speed": "12",
+      "knockback": "0.3",
+      "projectilecount": "2",
+      "size": "3",
+      "ex": "나이프를 전방으로 투척"
+    },
+    {
+      "skillno": "12",
+      "damage": "15",
+      "timetoattack": "1.5",
+      "speed": "12",
+      "knockback": "0.3",
+      "projectilecount": "3",
+      "size": "3",
+      "ex": "나이프 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "13",
+      "damage": "20",
+      "timetoattack": "1.5",
+      "speed": "12",
+      "knockback": "0.3",
+      "projectilecount": "4",
+      "size": "3",
+      "ex": "나이프 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "14",
+      "damage": "25",
+      "timetoattack": "1.3",
+      "speed": "12",
+      "knockback": "0.3",
+      "projectilecount": "5",
+      "size": "3",
+      "ex": "나이프 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "15",
+      "damage": "30",
+      "timetoattack": "1.2",
+      "speed": "12",
+      "knockback": "0.3",
+      "projectilecount": "6",
+      "size": "3",
+      "ex": "나이프 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "16",
+      "damage": "35",
+      "timetoattack": "1.1",
+      "speed": "12",
+      "knockback": "0.3",
+      "projectilecount": "7",
+      "size": "3",
+      "ex": "나이프 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "17",
+      "damage": "40",
+      "timetoattack": "1.0",
+      "speed": "12",
+      "knockback": "0.3",
+      "projectilecount": "8",
+      "size": "3",
+      "ex": "나이프 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "18",
+      "damage": "50",
+      "timetoattack": "0.8",
+      "speed": "12",
+      "knockback": "0.3",
+      "projectilecount": "9",
+      "size": "3",
+      "ex": "나이프 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "19",
+      "damage": "60",
+      "timetoattack": "0.6",
+      "speed": "12",
+      "knockback": "0.3",
+      "projectilecount": "10",
+      "size": "3",
+      "ex": "나이프 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "20",
+      "damage": "80",
+      "timetoattack": "0.2",
+      "speed": "12",
+      "knockback": "0.3",
+      "projectilecount": "12",
+      "size": "3",
+      "ex": "나이프 투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "21",
+      "damage": "10",
+      "timetoattack": "6",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "1",
+      "size": "1",
+      "ex": "6초마다 플레이어 주변에 타원으로 불꽃이 생성"
+    },
+    {
+      "skillno": "22",
+      "damage": "20",
+      "timetoattack": "6",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "1",
+      "size": "2",
+      "ex": "데미지 및 크기 증가"
+    },
+    {
+      "skillno": "23",
+      "damage": "35",
+      "timetoattack": "6",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "1",
+      "size": "3",
+      "ex": "데미지 및 크기 증가"
+    },
+    {
+      "skillno": "24",
+      "damage": "50",
+      "timetoattack": "6",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "1",
+      "size": "4",
+      "ex": "데미지 및 크기 증가"
+    },
+    {
+      "skillno": "25",
+      "damage": "70",
+      "timetoattack": "6",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "1",
+      "size": "5",
+      "ex": "데미지 및 크기 증가"
+    },
+    {
+      "skillno": "26",
+      "damage": "100",
+      "timetoattack": "6",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "1",
+      "size": "6",
+      "ex": "데미지 및 크기 증가"
+    },
+    {
+      "skillno": "27",
+      "damage": "150",
+      "timetoattack": "6",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "1",
+      "size": "7",
+      "ex": "데미지 및 크기 증가"
+    },
+    {
+      "skillno": "28",
+      "damage": "200",
+      "timetoattack": "6",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "1",
+      "size": "8",
+      "ex": "데미지 및 크기 증가"
+    },
+    {
+      "skillno": "29",
+      "damage": "250",
+      "timetoattack": "6",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "1",
+      "size": "9",
+      "ex": "데미지 및 크기 증가"
+    },
+    {
+      "skillno": "30",
+      "damage": "200",
+      "timetoattack": "6",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "1",
+      "size": "10",
+      "ex": "FlameEllipse 각성"
+    },
+    {
+      "skillno": "31",
+      "damage": "5",
+      "timetoattack": "8",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "3",
+      "size": "1.5",
+      "ex": "플레이어 주변으로 검들이 회전"
+    },
+    {
+      "skillno": "32",
+      "damage": "10",
+      "timetoattack": "8",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "3",
+      "size": "1.5",
+      "ex": "데미지 증가"
+    },
+    {
+      "skillno": "33",
+      "damage": "15",
+      "timetoattack": "8",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "3",
+      "size": "1.5",
+      "ex": "데미지 증가"
+    },
+    {
+      "skillno": "34",
+      "damage": "20",
+      "timetoattack": "8",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "3",
+      "size": "1.5",
+      "ex": "데미지 증가"
+    },
+    {
+      "skillno": "35",
+      "damage": "20",
+      "timetoattack": "8",
+      "speed": "200",
+      "knockback": "0",
+      "projectilecount": "4",
+      "size": "2.0",
+      "ex": "데미지, 검의크기 가 증가하고 검의 갯수가 1개 늘어난다."
+    },
+    {
+      "skillno": "36",
+      "damage": "30",
+      "timetoattack": "8",
+      "speed": "200",
+      "knockback": "0",
+      "projectilecount": "4",
+      "size": "2.0",
+      "ex": "데미지 증가"
+    },
+    {
+      "skillno": "37",
+      "damage": "45",
+      "timetoattack": "8",
+      "speed": "200",
+      "knockback": "0",
+      "projectilecount": "4",
+      "size": "2.0",
+      "ex": "데미지 증가"
+    },
+    {
+      "skillno": "38",
+      "damage": "60",
+      "timetoattack": "8",
+      "speed": "200",
+      "knockback": "0",
+      "projectilecount": "4",
+      "size": "2.0",
+      "ex": "데미지 증가"
+    },
+    {
+      "skillno": "39",
+      "damage": "80",
+      "timetoattack": "8",
+      "speed": "200",
+      "knockback": "0",
+      "projectilecount": "4",
+      "size": "2.0",
+      "ex": "데미지 증가"
+    },
+    {
+      "skillno": "40",
+      "damage": "60",
+      "timetoattack": "1",
+      "speed": "300",
+      "knockback": "0",
+      "projectilecount": "1",
+      "size": "2.5",
+      "ex": "SpinSword 각성"
+    },
+    {
+      "skillno": "41",
+      "damage": "20",
+      "timetoattack": "2",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "1",
+      "size": "0",
+      "ex": "랜덤한 위치에 천둥이 내려친다."
+    },
+    {
+      "skillno": "42",
+      "damage": "20",
+      "timetoattack": "2",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "2",
+      "size": "1",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "43",
+      "damage": "30",
+      "timetoattack": "2",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "3",
+      "size": "2",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "44",
+      "damage": "50",
+      "timetoattack": "2",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "4",
+      "size": "3",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "45",
+      "damage": "70",
+      "timetoattack": "2",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "5",
+      "size": "4",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "46",
+      "damage": "100",
+      "timetoattack": "2",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "6",
+      "size": "5",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "47",
+      "damage": "130",
+      "timetoattack": "2",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "7",
+      "size": "6",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "48",
+      "damage": "150",
+      "timetoattack": "2",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "8",
+      "size": "7",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "49",
+      "damage": "180",
+      "timetoattack": "2",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "9",
+      "size": "8",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "50",
+      "damage": "150",
+      "timetoattack": "1",
+      "speed": "1",
+      "knockback": "0.6",
+      "projectilecount": "10",
+      "size": "11",
+      "ex": "Thunder 각성"
+    },
+    {
+      "skillno": "51",
+      "damage": "6",
+      "timetoattack": "0.5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "1",
+      "size": "6",
+      "ex": "플레이어 주변에 데미지를 주는 오라를 생성"
+    },
+    {
+      "skillno": "52",
+      "damage": "10",
+      "timetoattack": "0.5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "1",
+      "size": "8.5",
+      "ex": "오라의 크기와 데미지 증가"
+    },
+    {
+      "skillno": "53",
+      "damage": "15",
+      "timetoattack": "0.5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "1",
+      "size": "7",
+      "ex": "오라의 크기와 데미지 증가"
+    },
+    {
+      "skillno": "54",
+      "damage": "20",
+      "timetoattack": "0.5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "1",
+      "size": "7.5",
+      "ex": "오라의 크기와 데미지 증가"
+    },
+    {
+      "skillno": "55",
+      "damage": "30",
+      "timetoattack": "0.5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "1",
+      "size": "8",
+      "ex": "오라의 크기와 데미지 증가"
+    },
+    {
+      "skillno": "56",
+      "damage": "45",
+      "timetoattack": "0.5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "1",
+      "size": "8.5",
+      "ex": "오라의 크기와 데미지 증가"
+    },
+    {
+      "skillno": "57",
+      "damage": "60",
+      "timetoattack": "0.5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "1",
+      "size": "9",
+      "ex": "오라의 크기와 데미지 증가"
+    },
+    {
+      "skillno": "58",
+      "damage": "90",
+      "timetoattack": "0.5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "1",
+      "size": "9.5",
+      "ex": "오라의 크기와 데미지 증가"
+    },
+    {
+      "skillno": "59",
+      "damage": "120",
+      "timetoattack": "0.5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "1",
+      "size": "10",
+      "ex": "오라의 크기와 데미지 증가"
+    },
+    {
+      "skillno": "60",
+      "damage": "150",
+      "timetoattack": "0.5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "1",
+      "size": "11",
+      "ex": "오라의 크기와 데미지 증가"
+    },
+    {
+      "skillno": "61",
+      "damage": "10",
+      "timetoattack": "5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "30",
+      "size": "11",
+      "ex": "플레이어 주변을 공격하는 새를 소환"
+    },
+    {
+      "skillno": "62",
+      "damage": "15",
+      "timetoattack": "5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "70",
+      "size": "11",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "63",
+      "damage": "20",
+      "timetoattack": "5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "100",
+      "size": "11",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "64",
+      "damage": "30",
+      "timetoattack": "5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "150",
+      "size": "11",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "65",
+      "damage": "40",
+      "timetoattack": "5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "220",
+      "size": "11",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "66",
+      "damage": "50",
+      "timetoattack": "5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "300",
+      "size": "11",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "67",
+      "damage": "70",
+      "timetoattack": "5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "400",
+      "size": "11",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "68",
+      "damage": "95",
+      "timetoattack": "5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "550",
+      "size": "11",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "69",
+      "damage": "130",
+      "timetoattack": "5",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "700",
+      "size": "11",
+      "ex": "투사체 및 데미지 증가"
+    },
+    {
+      "skillno": "70",
+      "damage": "150",
+      "timetoattack": "0",
+      "speed": "150",
+      "knockback": "0",
+      "projectilecount": "500",
+      "size": "11",
+      "ex": "새 각성"
+    },
+    {
+      "skillno": "501",
+      "damage": "0",
+      "timetoattack": "0",
+      "speed": "0",
+      "knockback": "0",
+      "projectilecount": "0",
+      "size": "1",
+      "ex": "자석효과"
+    },
+    {
+      "skillno": "502",
+      "damage": "0",
+      "timetoattack": "0",
+      "speed": "0",
+      "knockback": "0",
+      "projectilecount": "0",
+      "size": "1.5",
+      "ex": "자석효과의 범위가 증가"
+    },
+    {
+      "skillno": "503",
+      "damage": "0",
+      "timetoattack": "0",
+      "speed": "0",
+      "knockback": "0",
+      "projectilecount": "0",
+      "size": "2",
+      "ex": "자석효과의 범위가 증가"
+    },
+    {
+      "skillno": "504",
+      "damage": "0",
+      "timetoattack": "0",
+      "speed": "0",
+      "knockback": "0",
+      "projectilecount": "0",
+      "size": "2.5",
+      "ex": "자석효과의 범위가 증가"
+    },
+    {
+      "skillno": "505",
+      "damage": "0",
+      "timetoattack": "0",
+      "speed": "0",
+      "knockback": "0",
+      "projectilecount": "0",
+      "size": "3",
+      "ex": "자석효과의 범위가 증가"
+    },
+    {
+      "skillno": "506",
+      "damage": "0",
+      "timetoattack": "0",
+      "speed": "0",
+      "knockback": "0",
+      "projectilecount": "0",
+      "size": "3.5",
+      "ex": "자석효과의 범위가 증가"
+    },
+    {
+      "skillno": "507",
+      "damage": "0",
+      "timetoattack": "0",
+      "speed": "0",
+      "knockback": "0",
+      "projectilecount": "0",
+      "size": "4",
+      "ex": "자석효과의 범위가 증가"
+    },
+    {
+      "skillno": "508",
+      "damage": "0",
+      "timetoattack": "0",
+      "speed": "0",
+      "knockback": "0",
+      "projectilecount": "0",
+      "size": "4.5",
+      "ex": "자석효과의 범위가 증가"
+    },
+    {
+      "skillno": "509",
+      "damage": "0",
+      "timetoattack": "0",
+      "speed": "0",
+      "knockback": "0",
+      "projectilecount": "0",
+      "size": "5",
+      "ex": "자석효과의 범위가 증가"
+    },
+    {
+      "skillno": "510",
+      "damage": "0",
+      "timetoattack": "0",
+      "speed": "0",
+      "knockback": "0",
+      "projectilecount": "0",
+      "size": "5.5",
+      "ex": "자석효과의 범위가 증가"
+    },
+    {
+      "skillno": "511",
+      "damage": "0",
+      "timetoattack": "0",
+      "speed": "0",
+      "knockback": "0",
+      "projectilecount": "0",
+      "size": "5.5",
+      "ex": "최대HP가 10 늘어난다."
+    }
+  ]
+}
+

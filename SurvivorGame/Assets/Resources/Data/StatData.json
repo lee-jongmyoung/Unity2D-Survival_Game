@@ -1,0 +1,505 @@
+{
+  "stats": [
+    {
+      "level": "1",
+      "maxHp": "100",
+      "totalExp": "0"
+    },
+    {
+      "level": "2",
+      "maxHp": "100",
+      "totalExp": "1"
+    },
+    {
+      "level": "3",
+      "maxHp": "100",
+      "totalExp": "5"
+    },
+    {
+      "level": "4",
+      "maxHp": "100",
+      "totalExp": "5"
+    },
+    {
+      "level": "5",
+      "maxHp": "100",
+      "totalExp": "10"
+    },
+    {
+      "level": "6",
+      "maxHp": "100",
+      "totalExp": "10"
+    },
+    {
+      "level": "7",
+      "maxHp": "100",
+      "totalExp": "10"
+    },
+    {
+      "level": "8",
+      "maxHp": "100",
+      "totalExp": "15"
+    },
+    {
+      "level": "9",
+      "maxHp": "100",
+      "totalExp": "15"
+    },
+    {
+      "level": "10",
+      "maxHp": "100",
+      "totalExp": "15"
+    },
+    {
+      "level": "11",
+      "maxHp": "100",
+      "totalExp": "20"
+    },
+    {
+      "level": "12",
+      "maxHp": "100",
+      "totalExp": "20"
+    },
+    {
+      "level": "13",
+      "maxHp": "100",
+      "totalExp": "20"
+    },
+    {
+      "level": "14",
+      "maxHp": "100",
+      "totalExp": "20"
+    },
+    {
+      "level": "15",
+      "maxHp": "100",
+      "totalExp": "30"
+    },
+    {
+      "level": "16",
+      "maxHp": "100",
+      "totalExp": "30"
+    },
+    {
+      "level": "17",
+      "maxHp": "100",
+      "totalExp": "30"
+    },
+    {
+      "level": "18",
+      "maxHp": "100",
+      "totalExp": "40"
+    },
+    {
+      "level": "19",
+      "maxHp": "100",
+      "totalExp": "40"
+    },
+    {
+      "level": "20",
+      "maxHp": "100",
+      "totalExp": "40"
+    },
+    {
+      "level": "21",
+      "maxHp": "100",
+      "totalExp": "50"
+    },
+    {
+      "level": "22",
+      "maxHp": "100",
+      "totalExp": "50"
+    },
+    {
+      "level": "23",
+      "maxHp": "100",
+      "totalExp": "50"
+    },
+    {
+      "level": "24",
+      "maxHp": "100",
+      "totalExp": "60"
+    },
+    {
+      "level": "25",
+      "maxHp": "100",
+      "totalExp": "60"
+    },
+    {
+      "level": "26",
+      "maxHp": "100",
+      "totalExp": "60"
+    },
+    {
+      "level": "27",
+      "maxHp": "100",
+      "totalExp": "80"
+    },
+    {
+      "level": "28",
+      "maxHp": "100",
+      "totalExp": "80"
+    },
+    {
+      "level": "29",
+      "maxHp": "100",
+      "totalExp": "80"
+    },
+    {
+      "level": "30",
+      "maxHp": "100",
+      "totalExp": "100"
+    },
+    {
+      "level": "31",
+      "maxHp": "100",
+      "totalExp": "100"
+    },
+    {
+      "level": "32",
+      "maxHp": "100",
+      "totalExp": "100"
+    },
+    {
+      "level": "33",
+      "maxHp": "100",
+      "totalExp": "120"
+    },
+    {
+      "level": "34",
+      "maxHp": "100",
+      "totalExp": "120"
+    },
+    {
+      "level": "35",
+      "maxHp": "100",
+      "totalExp": "120"
+    },
+    {
+      "level": "36",
+      "maxHp": "100",
+      "totalExp": "150"
+    },
+    {
+      "level": "37",
+      "maxHp": "100",
+      "totalExp": "150"
+    },
+    {
+      "level": "38",
+      "maxHp": "100",
+      "totalExp": "150"
+    },
+    {
+      "level": "39",
+      "maxHp": "100",
+      "totalExp": "180"
+    },
+    {
+      "level": "40",
+      "maxHp": "100",
+      "totalExp": "180"
+    },
+    {
+      "level": "41",
+      "maxHp": "100",
+      "totalExp": "180"
+    },
+    {
+      "level": "42",
+      "maxHp": "100",
+      "totalExp": "220"
+    },
+    {
+      "level": "43",
+      "maxHp": "100",
+      "totalExp": "220"
+    },
+    {
+      "level": "44",
+      "maxHp": "100",
+      "totalExp": "220"
+    },
+    {
+      "level": "45",
+      "maxHp": "100",
+      "totalExp": "270"
+    },
+    {
+      "level": "46",
+      "maxHp": "100",
+      "totalExp": "270"
+    },
+    {
+      "level": "47",
+      "maxHp": "100",
+      "totalExp": "270"
+    },
+    {
+      "level": "48",
+      "maxHp": "100",
+      "totalExp": "330"
+    },
+    {
+      "level": "49",
+      "maxHp": "100",
+      "totalExp": "330"
+    },
+    {
+      "level": "50",
+      "maxHp": "100",
+      "totalExp": "330"
+    },
+    {
+      "level": "51",
+      "maxHp": "100",
+      "totalExp": "400"
+    },
+    {
+      "level": "52",
+      "maxHp": "100",
+      "totalExp": "400"
+    },
+    {
+      "level": "53",
+      "maxHp": "100",
+      "totalExp": "400"
+    },
+    {
+      "level": "54",
+      "maxHp": "100",
+      "totalExp": "600"
+    },
+    {
+      "level": "55",
+      "maxHp": "100",
+      "totalExp": "600"
+    },
+    {
+      "level": "56",
+      "maxHp": "100",
+      "totalExp": "700"
+    },
+    {
+      "level": "57",
+      "maxHp": "100",
+      "totalExp": "700"
+    },
+    {
+      "level": "58",
+      "maxHp": "100",
+      "totalExp": "700"
+    },
+    {
+      "level": "59",
+      "maxHp": "100",
+      "totalExp": "850"
+    },
+    {
+      "level": "60",
+      "maxHp": "100",
+      "totalExp": "850"
+    },
+    {
+      "level": "61",
+      "maxHp": "100",
+      "totalExp": "850"
+    },
+    {
+      "level": "62",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "63",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "64",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "65",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "66",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "67",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "68",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "69",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "70",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "71",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "72",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "73",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "74",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "75",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "76",
+      "maxHp": "100",
+      "totalExp": "1000"
+    },
+    {
+      "level": "77",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "78",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "79",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "80",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "81",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "82",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "83",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "84",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "85",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "86",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "87",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "88",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "89",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "90",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "91",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "92",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "93",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "94",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "95",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "96",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "97",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "98",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "99",
+      "maxHp": "100",
+      "totalExp": "95"
+    },
+    {
+      "level": "100",
+      "maxHp": "100",
+      "totalExp": "95"
+    }
+  ]
+
+}
